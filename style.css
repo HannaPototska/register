@@ -22,7 +22,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 50px;
+    gap: 40px;
 }
 
 .container input {
@@ -30,4 +30,13 @@ body {
     font-size: 16px;
     border-radius: 10px;
     padding: 10px;
+}
+
+.container button {
+    padding: 10px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    width: 20%;
 }
